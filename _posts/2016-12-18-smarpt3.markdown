@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "SmaRPt 3"
+date:   2016-12-15 14:34:40 +0100
+description: "Das SmaRPT ist ein Raspberry3 und Touch  mit vielen Möglichkeiten"
+categories: Bewerbung
+---
+
+  <h2>Smarpt3 ein mobiles Gadget</h2> 
+-- Das Gerät ist ein Webradio mit externer Bluetooth Box-- 
+-- ein Fotoapparat und Videoabspieler--
+-- Fernbedienung für Arduinos und Wlansteckdose--
+-- Zeigt die zuletzt empfangene Email--
+-- Twitterclient Nextcloudclient--
+  <img  src="/photo/smarpt3.jpg">
+-- Das SmaRPt 3 hat Touchscreen--
+-- Integrierte wechselbare Akkus. + Tiefentladewarnung--
+-- Ladebuchse und Netzbetrieb über USB--
+-- Ein-Aus Schalter + 3 frei programmierbare Tasten--
+-- Wlan, Bluetooth +Dongle für Tastatur und Maus--
+-- extra Soundkarte Audio Out und Mic.--
+  
+
+  <h2>Links</h2>
+
+Check out the [untergang.de][untergang] for more info about me. I'm developer of a smart mobile gadget  [smarpt.de][smarpt]. There is Code on [Github][github].
+
+
+[github]:https://github.com/dewomser
+[untergang]:http://www.untergang.de
+[smarpt]:http://www.smarpt.de
