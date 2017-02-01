@@ -17,8 +17,8 @@
 title: "Stefan Höhn Automatisierungen 67547 Worms"
 email: "webmaster@untergang.de"
 description: "Freie Software und Computer sind meine Leidenschaft Ich mag Katzen und Bier" 
-baseurl: "/dewomser/jekyll/my-awsome-site" # the subpath of your site, e.g. /blog
-url: https://github.com # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/jekyll/my-awsome-site" # the subpath of your site, e.g. /blog
+url: https://dewomser.github.io # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: dewomser
 github_username: dewomser
 
