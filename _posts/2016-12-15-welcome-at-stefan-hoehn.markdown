@@ -10,7 +10,7 @@ categories: Bewerbung
 
 
   <h2>Electric Skills</h2> 
-  <img style="float: right;" src="/photo/ich1.jpg">
+  <img style="float: right;" src="/jekyll-my-awesome-site/photo/ich1.jpg">
   
   <ul><strong>Siemens</strong>
   <li>Grundkurs Simatic S5</li>
