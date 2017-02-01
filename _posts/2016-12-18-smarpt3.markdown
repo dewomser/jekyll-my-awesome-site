@@ -12,7 +12,7 @@ categories: Bewerbung
 -- Fernbedienung für Arduinos und Wlansteckdose--
 -- Zeigt die zuletzt empfangene Email--
 -- Twitterclient Nextcloudclient--
-  <img  src="/photo/smarpt3.jpg">
+  <img  src="/jekyll-my-awsome-site/photo/smarpt3.jpg">
 -- Das SmaRPt 3 hat Touchscreen--
 -- Integrierte wechselbare Akkus. + Tiefentladewarnung--
 -- Ladebuchse und Netzbetrieb über USB--
