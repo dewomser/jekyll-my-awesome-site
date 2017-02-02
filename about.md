@@ -12,7 +12,7 @@ permalink: /about/
  </ul>
 <h2>gemacht mit</h2>
 <p>Diese Webeite hoste ich selbst auf einem Debian Linuxserver.
-Responsive Layout wurde mit Jekyll erstellt.</p>
+Responsive Layout wurde mit Jekyll erstellt. Die Karte ist ein Openstreetmap Aussschnitt</p>
 
 <hr/>
 
