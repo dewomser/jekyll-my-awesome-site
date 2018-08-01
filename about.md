@@ -8,7 +8,7 @@ permalink: /about/
  <ul>
  <li>Stefan Höhn</li>
  <li>Götzstr.6</li>
- <li>67547 Worms</li>
+ <li>67547 Worms/Rhein</li>
  </ul>
 <h2>gemacht mit</h2>
 <p>Diese Webeite hoste ich selbst auf einem Debian Linuxserver.
