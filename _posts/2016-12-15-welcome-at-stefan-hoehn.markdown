@@ -66,7 +66,7 @@ Check out the [untergang.de][untergang] for more info about me. I'm developer of
 [smarpt]:http://www.smarpt.de
 
 <script src="https://utteranc.es/client.js"
-        repo="[ENTER REPO HERE]"
+        repo="/dewomser/jekyll-my-awesome-site"
         issue-term="pathname"
         theme="github-light"
         crossorigin="anonymous"
