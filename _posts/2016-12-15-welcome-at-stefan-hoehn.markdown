@@ -65,10 +65,3 @@ Check out the [untergang.de][untergang] for more info about me. I'm developer of
 [untergang]:http://www.untergang.de
 [smarpt]:http://www.smarpt.de
 
-<script src="https://utteranc.es/client.js"
-        repo="/dewomser/jekyll-my-awesome-site"
-        issue-term="pathname"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-</script>
